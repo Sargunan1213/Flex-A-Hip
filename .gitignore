@@ -9,6 +9,6 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-
+splash.ai
 # macOS
 .DS_Store
